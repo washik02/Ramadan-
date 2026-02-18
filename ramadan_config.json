@@ -1,0 +1,37 @@
+{
+  "text": {
+    "labels": {
+      "district": "📍 জেলা",
+      "date": "📅 তারিখ",
+      "hijri": "📆 হিজরি"
+    },
+    "fajr": "📢 ফজর",
+    "maghrib": "🌅 মাগরিব",
+    "sehri": "🌙 সেহরির শেষ",
+    "iftar": "🌅 ইফতার",
+    "footer": "রাহা এআই - ২০২৬"
+  },
+  "canvas": {
+    "fajr": "FAJR",
+    "maghrib": "MAGHRIB",
+    "sehri": "SEHRI ENDS",
+    "iftar": "IFTAR",
+    "colors": {
+      "background": "#0a472e",
+      "gold": "#ffd700",
+      "white": "#ffffff",
+      "gray": "#cccccc",
+      "sehri": "#ff6b6b",
+      "fajr": "#4ecdc4",
+      "iftar": "#ffd93d",
+      "maghrib": "#ffd93d"
+    },
+    "footer": "Raha AI - 2026"
+  },
+  "defaultTimings": {
+    "fajr": "০৫:০৬ AM",
+    "maghrib": "০৫:৫৪ PM",
+    "sehri": "০৪:৫৬ AM",
+    "iftar": "০৫:৫৪ PM"
+  }
+}

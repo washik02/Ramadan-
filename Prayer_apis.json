@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Aladhan (Karachi Method)",
+    "url": "http://api.aladhan.com/v1/timings/{date}?latitude={lat}&longitude={lon}&method=1",
+    "enabled": true
+  },
+  {
+    "name": "Aladhan (Bangladesh Method)",
+    "url": "http://api.aladhan.com/v1/timings/{date}?latitude={lat}&longitude={lon}&method=13",
+    "enabled": true
+  },
+  {
+    "name": "Aladhan (MWL Method)",
+    "url": "http://api.aladhan.com/v1/timings/{date}?latitude={lat}&longitude={lon}&method=3",
+    "enabled": true
+  },
+  {
+    "name": "MuslimSalat (Backup)",
+    "url": "https://muslimsalat.com/{date}.json?lat={lat}&long={lon}&key=YOUR_API_KEY",
+    "enabled": false
+  }
+]
